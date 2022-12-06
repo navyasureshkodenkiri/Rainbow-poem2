@@ -8,6 +8,7 @@ blue
 unicorn
 indigo
 purple
+ponies
 pink
 These are the colors of the rainbow.
 And the unicorn.
