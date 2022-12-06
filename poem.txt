@@ -6,6 +6,7 @@ orrange
 green
 blue
 unicorn
+indigo
 purple
 pink
 These are the colors of the rainbow.
